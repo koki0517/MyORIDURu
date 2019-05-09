@@ -8,9 +8,9 @@
         <div class="title">
             <h1>{{ page.title }}</h1>
         </div>
-        <div class="post-list">
-            {% for post in site.study %} 
-                {% if post.project == null %}
+        <div class="study-list">
+            {% for post in site.post %} 
+                {% if post.study %}
             <ul>
                 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
             </ul>
