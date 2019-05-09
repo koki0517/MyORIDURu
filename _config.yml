@@ -1,6 +1,6 @@
 # Site
-title:          Archive2
-bio:            'Markeee's Pocket note book'
+title:          "Archive"
+bio:            "An accumulation of my records"
 description:    "blog description"
 picture:        'assets/img/Logo.png'
 locale:         en_US
