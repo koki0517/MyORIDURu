@@ -3,6 +3,7 @@ layout: post
 title: "[ENG] 조앤박 영어회화 3/3"
 date: 2019-05-09
 study: true
+published: true
 tags: [study, english]
 ---
 
