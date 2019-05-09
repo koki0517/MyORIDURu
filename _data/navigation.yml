@@ -3,17 +3,17 @@
 - title: Home
   url: /
 
-# - title: Projects
-#   url: /projects/
+- title: Projects
+  url: /projects/
 
-# - title: Invest
-#   url: /invest/
+- title: Invest
+  url: /invest/
 
-# - title: English
-#   url: /english/
+- title: English
+  url: /english/
 
 - title: Legacy
-  url: /legacys/
+  url: /legacy/
 
 - title: About
   url: /about/
