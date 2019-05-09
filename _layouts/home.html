@@ -7,13 +7,15 @@
     {% comment %} {% include nav-home.html %} {% endcomment %}
     {% include nav.html %}
     <div class="home">
-        <header class="header-home">
+        {% comment %} <header class="header-home"> {% endcomment %}
+        <header class="header">
             <img class="selfie" alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
             <h1 class="title-home">{{ site.title }}</h1>
             <h2 class="description-home">{{ site.bio }}</h2>
             {% comment %} {% include social-links.html %} {% endcomment %}
         </header>
-        {% include footer-home.html %}
+        {% comment %} {% include footer-home.html %} {% endcomment %}
+        {% include footer.html %}
     </div>
 </body>
 
