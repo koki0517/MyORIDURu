@@ -49,6 +49,7 @@ tags: [study, english]
 - I've already seen the movie.
 >I've already tried that.<br>
 >I've already explained myself.<br>
+>I've already dropped it off at the cleaner's.<br>
 
 - I haven't even started it yet
 >I haven't met Mr. Right yet. 나의 이상형을 아직 만지지 못했어.<br>
@@ -57,9 +58,13 @@ tags: [study, english]
 - I've nevet gone out on a blind date before.
 >I've never asked a guy out before.<br>
 >I've never met him before.<br>
+>I've never done bungee jumping before.<br>
+>I've never been to Paris before.<br>
 
 - It's been a long time since I felt like this.
 >It's been a long time since I last saw you.<br>
 >It's been a long time since we laughed together.<br>
+>It's been a long time since I saw you thie nervous.<br>
+>It's been a long time since I did some shopping.<br>
 
 
