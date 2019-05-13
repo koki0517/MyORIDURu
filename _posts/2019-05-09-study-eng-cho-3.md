@@ -44,3 +44,22 @@ tags: [study, english]
 - It can't be true. 그게 사실일 리가 없어.
 >It can't be possible.<br>
 >This can't be happening.<br>
+
+## 37강. I've already ~ 
+- I've already seen the movie.
+>I've already tried that.<br>
+>I've already explained myself.<br>
+
+- I haven't even started it yet
+>I haven't met Mr. Right yet. 나의 이상형을 아직 만지지 못했어.<br>
+>I haven't reached my goal yet.<br>
+
+- I've nevet gone out on a blind date before.
+>I've never asked a guy out before.<br>
+>I've never met him before.<br>
+
+- It's been a long time since I felt like this.
+>It's been a long time since I last saw you.<br>
+>It's been a long time since we laughed together.<br>
+
+
