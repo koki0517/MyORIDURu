@@ -7,6 +7,7 @@ tags: [study, english]
 ---
 
 {% include toc.html %}
+***
 
 ## 35강. All you have to do is ~
 - All you have to do is follow my lead.
@@ -28,7 +29,7 @@ tags: [study, english]
 >What I’m trying to say is you bug me. 내가 말하려고 하는건…네가 날 귀찮게~(주저하는 말투)<br>
 >What I’m trying to say is it’s my fault.<br>
 
-<br>
+***
 
 ## 36강. It could be ~
 - It could be worse. 더 나빳을 수도 있어.(그만하길 다행이야.)
@@ -47,7 +48,7 @@ tags: [study, english]
 >It can't be possible.<br>
 >This can't be happening.<br>
 
-<br>
+***
 
 ## 37강. I've already ~ 
 - I've already seen the movie.
@@ -71,7 +72,7 @@ tags: [study, english]
 >It's been a long time since I saw you thie nervous.<br>
 >It's been a long time since I did some shopping.<br>
 
-<br>
+***
 
 ## 38강. I should ~, I have to ~, I've got to ~
 - I should cut down on my drinking. ~ 하는 편이 좋겠어.
@@ -95,7 +96,7 @@ tags: [study, english]
 >I'd better sleep on it. 그 문제는 천천히 더 생각해 봐야겠어.<br>
 >I'd better come clean. 아무래도 사실대로 털어놔야겠어.<br>
 
-<br>
+***
 
 ## 39강. ~
 - .
@@ -108,7 +109,7 @@ tags: [study, english]
 > .<br>
 
 
-<br>
+***
 
 ## 40강. ~
 - .
@@ -120,7 +121,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 41강. ~
 - .
@@ -132,7 +133,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 42강. ~
 - .
@@ -144,7 +145,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 43강. ~
 - .
@@ -156,7 +157,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 44강. ~
 - .
@@ -168,7 +169,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 45강.~
 - .
@@ -180,7 +181,7 @@ tags: [study, english]
 - .
 > .<br>
 
-<br>
+***
 
 ## 46강. ~
 - .
