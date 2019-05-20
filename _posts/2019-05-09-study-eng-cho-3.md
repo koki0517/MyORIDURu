@@ -98,20 +98,35 @@ tags: [study, english]
 
 ***
 
-## 39강. ~
-- .
-> .<br>
+## 39강. I'm busy ~ing
+- I'm busy answering phone calls.
+> I'm busy fixing dinner. 저녁 차리느라 바빠.<br>
+> I'm busy taking care of business.<br>
+> I'm busy doing nothing.<br>
+> I'm busy preparing for the test.<br>
 
-- .
-> .<br>
+- I spent my Sunday cleaning the house.
+> I spent this summer swimming.<br>
+> I'm going to spend this weekend sunbathing.<br>
+> I'm going to spend the rest of my life trying my best.<br>
 
-- .
-> .<br>
+- I spend too much money on clothes.
+> I spend lots of money on DVD's.<br>
+> I spend half of my income on bills.<br>
+> I spend all my money on shoes.<br>
 
+- I had a hard time getting a job.
+>I had a good time talking with her.<br>
+>I had a great time thinking back on school days.<br>
+>I had a hard time digesting that meal.<br>
+>I had a hard time finding your place.<br>
 
 ***
 
 ## 40강. ~
+- .
+> .<br>
+
 - .
 > .<br>
 
@@ -133,9 +148,15 @@ tags: [study, english]
 - .
 > .<br>
 
+- .
+> .<br>
+
 ***
 
 ## 42강. ~
+- .
+> .<br>
+
 - .
 > .<br>
 
@@ -157,9 +178,15 @@ tags: [study, english]
 - .
 > .<br>
 
+- .
+> .<br>
+
 ***
 
 ## 44강. ~
+- .
+> .<br>
+
 - .
 > .<br>
 
@@ -183,6 +210,9 @@ tags: [study, english]
 
 ***
 
+- .
+> .<br>
+
 ## 46강. ~
 - .
 > .<br>
@@ -193,3 +223,5 @@ tags: [study, english]
 - .
 > .<br>
 
+- .
+> .<br>
