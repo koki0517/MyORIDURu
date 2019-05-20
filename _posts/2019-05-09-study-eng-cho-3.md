@@ -121,6 +121,7 @@ tags: [study, english]
 >I had a great time thinking back on school days.<br>
 >I had a hard time digesting that meal.<br>
 >I had a hard time finding your place.<br>
+>I have a hard time preparing for the presentation.<br>
 
 ***
 
