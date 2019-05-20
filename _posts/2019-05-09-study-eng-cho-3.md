@@ -68,3 +68,115 @@ tags: [study, english]
 >It's been a long time since I did some shopping.<br>
 
 
+## 38강. I should ~, I have to ~, I've got to ~
+- I should cut down on my drinking. ~ 하는 편이 좋겠어.
+>I should join a gym.<br>
+>I should look at the brihgt side.<br>
+>I should take a cat nap.<br>
+>You should watch what you eat. 너 음식 조절 좀 해야겠다.<br>
+
+
+- I have to go back to work.
+>I have to do my laundry today.<br>
+>I have to fill out the application.<br>
+
+- I've got to run. ~ 해야 해(편한 말투로)
+>I've got to get over her. 그녀를 잊어야 해.<br>
+>I've got to run. 나 얼른 가 봐야 해.<br>
+>I've got to tweet it to my followers.<br>
+
+- I'd better hurry up.
+>I'd better get going, it's already midnight.<br>
+>I'd better not go.<br>
+>I'd better sleep on it. 그 문제는 천천히 더 생각해 봐야겠어.<br>
+>I'd better come clean. 아무래도 사실대로 털어놔야겠어.<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
+
+## ~
+- .
+> .<br>
+
+- .
+> .<br>
+
+- .
+> .<br>
+
