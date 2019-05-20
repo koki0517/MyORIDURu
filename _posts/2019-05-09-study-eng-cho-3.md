@@ -104,6 +104,7 @@ tags: [study, english]
 > I'm busy taking care of business.<br>
 > I'm busy doing nothing.<br>
 > I'm busy preparing for the test.<br>
+> I'm busy going over the annual report. 나 연차 보고서 검토 중이라 바빠.<br>
 
 - I spent my Sunday cleaning the house.
 > I spent this summer swimming.<br>
