@@ -248,30 +248,46 @@ tags: [study, english]
 > I'm just wondering if you can sit in for me. 혹시 나 대신 일할 수 있는지 궁금해서.<br>
 
 #### Practice!
-    A: I was just wondering if you could help me.
-    B: Whan can I do for you?
-    A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
-    B: You are doing fine. Just keep walking this way
-
-<br>
-    
+```
+A: I was just wondering if you could help me.
+B: Whan can I do for you?
+A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
+B: You are doing fine. Just keep walking this way
+```
 
 ***
 
 ## 45강. 앞에서 한 말과 상반된 얘기를 하고 싶을 땐, Though~
-- .
+- Though I love her, I had to leave her.
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- I'm happy for you, though. 그래도 너한테는 너무 잘된 일이네
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- Although I was tired, I couldn't sleep.
+> .<br>
+> .<br>
+> .<br>
+> .<br>
 > .<br>
 
 - .
 > .<br>
-
-- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
 > .<br>
 
 ***
-
-- .
-> .<br>
 
 ## 46강. ~
 - .
