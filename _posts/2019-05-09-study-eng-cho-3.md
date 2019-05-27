@@ -125,78 +125,134 @@ tags: [study, english]
 
 ***
 
-## 40강. ~
-- .
-> .<br>
+## 40강. I got ~
+- I got my hair cut.
+> I got my hair permed today.<br>
+> I got my ears pierced today.<br>
+> I got my eyes done. 나 쌍커풀 수술했어.<br>
+> I got my hair dyed(colored) today.<br>
 
-- .
-> .<br>
+- He makes me happy.
+> He makes me jumpy. 그는 나를 초조하고 불안하게 만들어.<br>
+> He makes me feel special.<br>
+> He makes me laugh all the time.<br>
 
-- .
-> .<br>
+- Don't make me mad.
+> Don't make laugh. 웃기는 소리 하고 있네!<br>
+> Don't make me scold you. 잔소리 안하게 좀 해.<br>
+> Don't make me sick. 속 거북하게 하지마.<br>
+> Don't make me a bad person.<br>
 
-- .
-> .<br>
-
-***
-
-## 41강. ~
-- .
-> .<br>
-
-- .
-> .<br>
-
-- .
-> .<br>
-
-- .
-> .<br>
+- I'll have him call you back. 그 사람에게 너한테 전화하라고 할게.
+> I'll have him finish up here. 그 사람에게 여기 마무리 하라고 할게.<br>
+> I'll have him text you.<br>
 
 ***
 
-## 42강. ~
-- .
-> .<br>
+## 41강. '뭔가 하게 되면' 이라는 말을 하고 싶을땐; When ~, If ~ 
+- When you get there, call me.
+> When you see Ray, say hello for me.<br>
+> Call me When you're ready.<br>
+> When I was a kid, things were cheaper.<br>
+> When I got here, nobody was home.<br>
 
-- .
-> .<br>
+- If you have any questions, raise your hand.
+> If you want join us, just let us know.<br>
+> You can crash on my sofa If you get tired.<br>
+> If you ever come to New York, visit me.<br>
 
-- .
-> .<br>
+- Did you miss me while I was gone?
+> While you are away, I'll take care of your dog.<br>
+> Guard the door while I change my clothes.<br>
+> Pause the video while I bring more popcorn.<br>
+> While you're at it, get me a glass of water, please.<br>
 
-- .
-> .<br>
-
-***
-
-## 43강. ~
-- .
-> .<br>
-
-- .
-> .<br>
-
-- .
-> .<br>
-
-- .
-> .<br>
+- By the time you find this, I'll be in London. 그 때쯤 ~ ,
+> By the time you wise up, you'll be broke. 너가 정신 차릴 때 쯤, 넌 빈털털이가 되어 있을거야.<br>
+> By the time I got there, everybody was drunk.<br>
+> By the time you read this, I'll be out of town.<br>
+> By the time I found out, it was way too late. 내가 알아냈을 땐 이미 너무 늦었지.<br>
 
 ***
 
-## 44강. ~
-- .
-> .<br>
+## 42강.'뭔가 한 후에/하기 전에'라는 말을 하고 싶을 땐; after ~, before ~
+- Let's catch a movie after work.
+> Leave a message after the beep.<br>
+> Can I see you after the break.<br>
+> Let's take a walk after the rain stops.<br>
+> I stopped drinking after I got married.<br>
+> There's an extra charge after midnight.<br>
+> I'll catch up after I finish this.<br>
+> We should hit a coffee shop after the movie.<br>
 
-- .
-> .<br>
+- Let's finish this before lunch.
+> Come home before midnight.<br>
+> I always weigh myself before breakfast.<br>
+> Leave me alone before I lose my temper.<br>
+> Let's get the tickets before they're sold out.<br>
+> Wash your hands before dinner.<br>
+> I used to smoke before I met sarah.<br>
 
-- .
-> .<br>
+- I'll tell you as soon as I hear from him.
+> He turns on the TV as soon as he gets home.<br>
+> I'll get back to you as soon as I can. 가능한 빨리 연락 드릴게요.<br>
+> I'll get back to work as soon as I finish this coffee.<br>
+> As soon as I know the result, I'll let you know.<br>
 
-- .
-> .<br>
+***
+
+## 43강. '뭐든 이유나 변명'을 대고자 할 땐; because ~
+- I'm leaving you because I love you.
+> I usually stay up late because I'm a night owl.<br>
+> We're best friends because we think alike.<br>
+> I can't walk because my feet hurt.<br>
+> My feet hurt because I'm wearing new shoes.<br>
+
+- He couldn't come because of a personal matter.
+> The picnic was canceld because of the rain.<br>
+> He got canned because of a bad attitude. 그는 나쁜 태도 때문에 해고 당했다.<br>
+> The traffic is bad because of the accident.<br>
+
+- Thanks to you, she's angry at me.
+> Thanks to my mom, I get up at six every morning.<br>
+> Thanks to cell phones, we could trace the suspects.<br>
+> Thanks to the men and women in uniform, we are safe.<br>
+
+- Since I was on a diet, I skipped the dessert.
+> Since it was dark, it was difficult to read the sign.<br>
+> Since it was overpriced, we didn't make the purchase.<br>
+> Since it was getting late, we all went out for dinner.<br>
+> Since I knew the answer, I remained silent.<br>
+
+***
+
+## 44강. 잘 모르는게 있을 땐, I'm not sure if ~, I have no idea ~
+- I'm not sure if I can do this.
+> I'm not sure if he's coming.<br>
+> I'm not sure if she's right for the job.<br>
+> I'm not sure if you catch my drift. 네가 내 의중을 파악했나 모르겠다.<br>
+
+- I have no idea what's going on.
+> I have no idea where I parked my car.<br>
+> I have no idea why things are the way they are.<br>
+
+- I wonder if he still thinks of me.
+> I wonder if we'll get a holiday bonus.<br>
+> I wonder why she looks so tired.<br>
+> I wonder where he's from.<br>
+> I wonder if it's still raining.<br>
+
+- I was just wondering if you had time. 혹시 시간 있으신지 궁금해서요.
+> I was just wondering if I could get a refund.<br>
+> I was just wondering if you realize the situation.<br>
+> I'm just wondering if you can sit in for me. 혹시 나 대신 일할 수 있는지 궁금해서.<br>
+
+#### Practice!
+    A: I was just wondering if you could help me.
+    B: Whan can I do for you?
+    A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
+    B: You are doing fine. Just keep walking this way
+    
 
 ***
 
