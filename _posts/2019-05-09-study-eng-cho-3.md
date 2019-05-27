@@ -252,12 +252,13 @@ tags: [study, english]
     B: Whan can I do for you?
     A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
     B: You are doing fine. Just keep walking this way
+
 <br>
     
 
 ***
 
-## 45강.~
+## 45강. 앞에서 한 말과 상반된 얘기를 하고 싶을 땐, Though~
 - .
 > .<br>
 
