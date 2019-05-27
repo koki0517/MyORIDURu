@@ -248,7 +248,7 @@ tags: [study, english]
 > I'm just wondering if you can sit in for me. 혹시 나 대신 일할 수 있는지 궁금해서.<br>
 
 #### Practice!
-```c
+```
 A: I was just wondering if you could help me.
 B: Whan can I do for you?
 A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
@@ -261,31 +261,28 @@ B: You are doing fine. Just keep walking this way
 - Though I love her, I had to leave her.
 > Though he was a robot, he had feelings.<br>
 > I can help you if you want, though I might not be helpful.<br>
-> .<br>
-> .<br>
-> .<br>
+> Though Jane works hard, she doesn't get paid well.<br>
 
 - I'm happy for you, though. 그래도 너한테는 너무 잘된 일이네
 > It looks delicious, though. (그래도)맛은 있어 보이네<br>
 > It's really spicy, though.<br>
-> .<br>
-> .<br>
-> .<br>
+> She's a bit of a stickler, though. 그녀는 약간 원칙 주의자잖아~<br>
 
 - Although I was tired, I couldn't sleep.
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+> Although I was told not to, I did. 하지 말라고 들었지만 했어.<br>
+> Although it's popular, I'm not into it.<br>
+> Although the car is old, it still runs well.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Even though it's ruined, it's still delicious.
+> Even though he felt sorry, he didn't say anything.<br>
+> Even though he's a cook, he never cooks at home.<br>
+> Even though they're friends, they fight like cats and dogs.<br>
+
+#### Practice!
+    A: How did it go?
+    B: I can't believe it. although I didn't study, I passed the exam!
+    A: Good for you! You must be thrilled.
+    B: I feel a little bit guilty, though. I feel like I cheated.
 
 ***
 
