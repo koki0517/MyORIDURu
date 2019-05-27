@@ -248,12 +248,10 @@ tags: [study, english]
 > I'm just wondering if you can sit in for me. 혹시 나 대신 일할 수 있는지 궁금해서.<br>
 
 #### Practice!
-```
-A: I was just wondering if you could help me.
-B: Whan can I do for you?
-A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
-B: You are doing fine. Just keep walking this way
-```
+    A: I was just wondering if you could help me.
+    B: Whan can I do for you?
+    A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
+    B: You are doing fine. Just keep walking this way
 
 ***
 
