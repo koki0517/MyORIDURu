@@ -255,7 +255,7 @@ tags: [study, english]
 
 ***
 
-## 45강. 앞에서 한 말과 상반된 얘기를 하고 싶을 땐, Though~
+## 45강. 앞에서 한 말과 상반된 얘기를 하고 싶을 땐, Though ~
 - Though I love her, I had to leave her.
 > Though he was a robot, he had feelings.<br>
 > I can help you if you want, though I might not be helpful.<br>
@@ -284,15 +284,218 @@ tags: [study, english]
 
 ***
 
-## 46강. ~
+## 46강. 언제까지라고 얘기하고 싶을 땐; by ~, until ~, from ... to ~
+- I'll be home by 10. 기한에 포인트를 주고 싶을 땐 by
+> I'll be back by 9:30.<br>
+> Can you get in done by tomorrow?<br>
+> I have to put it back by tomorrow.<br>
+> I can't wait until tomorrow.<br>
+
+- It's open until 2 am. 계속의 느낌을 주고 싶을 땐 until
+> I'll buy lottery tickets until I win.<br>
+> It's open until 2 am.<br>
+> I'll keep you company until you finish.<br>
+
+- I work from nine to five.
+> The situation went from bad to worse.<br>
+> The rumor spread from person to person.<br>
+> We go to the movies from time to time.우리는 때때로 극장에 가.<br>
+
+- Let's wait till the rain stops. 구어체로 사용할 땐 till
+> Wait till you see.<br>
+> Keep at it till you make it happen.<br>
+> I'll love you till the end of the earth.<br>
+> We don't expect him back till next week.<br>
+
+#### Practice!
+    A: What time does the store close? We ran out of milk
+    B: It's open until 2 AM, but isn't it too late?
+    A: I can't wait until tomorrow. I need to drink milk befor I go to bad.
+    B: We have some cocoa.
+    A: No, I'll just run down th the store. I'll come back by midnight
+    B: Suit yourself. I'm going to bad
+
+***
+
+## 47강. 뭔가 해야 한다는 말을 need로 표현하고 싶을 땐; You need to ~
+- You need to make a decision.
+> You need to concentrate.<br>
+> You need to stop dillydallying. 그만 꾸물 거려라~<br>
+
+- You don't need to apologize.
+> You don't need to tell my everything.<br>
+> You don't need to point that out. 일일히 지적할 필요 없어.<br>
+> You don't need to put up with that. 그거 참지 않아도 돼<br>
+
+- You must stick to your guns.
+> You must go to the hospital.<br>
+> You must have more patience.<br>
+> You must not park here.<br>
+> You must keep the receipt.<br>
+
+- You'd better watch out.
+> You'd better believe it.<br>
+> You'd better ask for professional help.<br>
+> You'd better start working out at a gym. 운동을 시작하는게 좋을 걸.<br>
+
+#### Practice!
+    A: You need to get your act together. 체계적으로 일 처리 할 필요가 있어.
+    B: Back off. I'm doing my best.
+    A: You must not fold under pressure
+    B: That's easy for you to say
+
+***
+
+## 4강. ~
 - .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
 > .<br>
 
 - .
 > .<br>
-
-- .
+> .<br>
+> .<br>
+> .<br>
 > .<br>
 
 - .
 > .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+#### Practice!
+    A: 
+    B: 
+    A: 
+    B: 
+    A: 
+    B: 
+
+***
+
+## 4강. ~
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+#### Practice!
+    A: 
+    B: 
+    A: 
+    B: 
+    A: 
+    B: 
+
+***
+
+## 4강. ~
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+#### Practice!
+    A: 
+    B: 
+    A: 
+    B: 
+    A: 
+    B: 
+
+***
+
+## 4강. ~
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+- .
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+> .<br>
+
+#### Practice!
+    A: 
+    B: 
+    A: 
+    B: 
+    A: 
+    B: 
