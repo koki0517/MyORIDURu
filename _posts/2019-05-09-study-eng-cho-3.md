@@ -350,43 +350,37 @@ tags: [study, english]
 
 ***
 
-## 4강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 48강. 과거에 하지 않아 후회되는 일을 말할 땐; I should've ~
+- I should've listened to you.
+> I should've called you first.<br>
+> I should've said no.<br>
+> I should've done the audition.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- You should've thought to call.
+> You should've been there. 너도 거기 왓어야 했는데.<br>
+> You should've called the police.<br>
+> You should've buckled up.<br>
+> You should've known better.<br>
+> You should've invited him.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I shouldn't have met you. 널 만나지 말았어야 했는데.
+> I shouldn't have lent you any money.<br>
+> You shouldn't have crossed the line.<br>
+> I shouldn't have lied to you.<br>
+> I shouldn't have eaten the extra piece.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I could have chosen you. 당신을 선택할 수도 있었어요.
+> I could have tried harder.<br>
+> I could have met Tom Cruise in person.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: You shouldn't have overworked yourself!
+    B: I know. I should've listened to you
+    A: Take this prescription to the pharmacy and get it filled.
+    B: Thank you, Doctor.
+    A: You should take a rest at least for a couple of days.
+    B: I'll do whatever yoy say. I could have died this time.
 
 ***
 
