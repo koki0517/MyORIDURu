@@ -247,7 +247,8 @@ tags: [study, english]
 > I was just wondering if you realize the situation.<br>
 > I'm just wondering if you can sit in for me. 혹시 나 대신 일할 수 있는지 궁금해서.<br>
 
-#### Practice!
+**Practice!**
+
     A: I was just wondering if you could help me.
     B: Whan can I do for you?
     A: I'm looking for a bookstore, but I not sure if I'm going in the right direction.
@@ -276,7 +277,8 @@ tags: [study, english]
 > Even though he's a cook, he never cooks at home.<br>
 > Even though they're friends, they fight like cats and dogs.<br>
 
-#### Practice!
+**Practice!**
+
     A: How did it go?
     B: I can't believe it. although I didn't study, I passed the exam!
     A: Good for you! You must be thrilled.
@@ -307,7 +309,8 @@ tags: [study, english]
 > I'll love you till the end of the earth.<br>
 > We don't expect him back till next week.<br>
 
-#### Practice!
+**Practice!**
+
     A: What time does the store close? We ran out of milk
     B: It's open until 2 AM, but isn't it too late?
     A: I can't wait until tomorrow. I need to drink milk befor I go to bad.
@@ -338,7 +341,8 @@ tags: [study, english]
 > You'd better ask for professional help.<br>
 > You'd better start working out at a gym. 운동을 시작하는게 좋을 걸.<br>
 
-#### Practice!
+**Practice!**
+
     A: You need to get your act together. 체계적으로 일 처리 할 필요가 있어.
     B: Back off. I'm doing my best.
     A: You must not fold under pressure
@@ -375,7 +379,8 @@ tags: [study, english]
 > .<br>
 > .<br>
 
-#### Practice!
+**Practice!**
+
     A: 
     B: 
     A: 
@@ -414,7 +419,8 @@ tags: [study, english]
 > .<br>
 > .<br>
 
-#### Practice!
+**Practice!**
+
     A: 
     B: 
     A: 
@@ -453,7 +459,8 @@ tags: [study, english]
 > .<br>
 > .<br>
 
-#### Practice!
+**Practice!**
+
     A: 
     B: 
     A: 
@@ -492,7 +499,8 @@ tags: [study, english]
 > .<br>
 > .<br>
 
-#### Practice!
+**Practice!**
+
     A: 
     B: 
     A: 
