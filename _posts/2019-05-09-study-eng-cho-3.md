@@ -384,120 +384,64 @@ tags: [study, english]
 
 ***
 
-## 4강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 49강. 실현 가능성이 없는 소망을 얘기할 땐; I wish I were ~
+- I wish I were a movie start.
+> I wish I were smarter.<br>
+> I wish you were ten years younger.<br>
+> I wish I were a millionare..<br>
+> I wish I had a convertible.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I wish I could read your mind.
+> I wish I could stay longer.<br>
+> I wish I could travel around the world.<br>
+> I wish I could a woman.<br>
+> I wish I could play the trumpet like that.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I wish I didn't have to go to school.(현재에 대한 아쉬움)
+> I wish I knew. 나도 알면 좋겠다.(현재 모른다)<br>
+> I wish I had more time. <br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I wish I had known.(과거에 대한 아쉬움)
+> I wish I had been there.<br>
+> I wish I had chosen a different major.<br>
+> I wish I had done better last time.<br>
+> I wish I had gotten here earlier.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: How did it go with the competition? Did you win anything?
+    B: I wish I had won the first prize. but I got the third.
+    A: Way to go! I wish I had been there.
+    B: There's another piano competition next month. Don't miss it
 
 ***
 
-## 4강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 50강. 뭐든, 어디든, 언제든, 아무리 뭘 해도!; Whatever, Wherever, Whenever, However~
+- Whatever you do, don't give up.
+> Whatever it takes, I don't care.<br>
+> Whatever you want, I'll get if for you.<br>
+> Whatever you do, this will bring you good luck.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Wherever you go, I'll follow you.
+> Wherever you go, just be yourself.<br>
+> Wherever you go, call me when you get there.<br>
+> Wherever you go, be careful.<br>
+> Wherever you go, carry it with you.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I'll think of you Whenever I see this.
+> Whenever I ask him for help, he says no.<br>
+> Whenever we get together, we end up arguing.<br>
+> Whenever I go into her room, she's on the phone.<br>
+> You can ask for help, whenever you need it.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- However hard I try, I can't stop thinking about her.
+> However hard I study, it always slips my mind.<br>
+> However long it takes, I'll never give up.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: Our boss is so mean! 사장님 아주 나빠!
+    B: Whatever you request, he'll turn you down.
+    A: Exactly! However much I want it, it's out of the question.
+    B: Sorry you're leaving. stay in touch Wherever you go.
 
-***
-
-## 4강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-**Practice!**
-
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
