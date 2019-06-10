@@ -2,9 +2,7 @@
 layout: post
 title: "[Stock] 다시 쓰는 주식 투자 교과서"
 date: 2019-05-09
-# excerpt: "study english cho 3/3"
 book: true
-# published: true
 tags: [book, stock]
 ---
 
