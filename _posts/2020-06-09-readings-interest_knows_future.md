@@ -26,7 +26,10 @@ tags: [book, stock]
 <figure class="half">
     <img src="/images/readings-interest_knows_future/2-1.jpeg">
     <figcaption>Caption describing these two images.</figcaption>
-</figure> 
+</figure>
+
+<br>
+
 - 금리가 주식시장을 움직이는 원리와 우리의 선택
 
 ### 3장.
