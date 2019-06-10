@@ -23,10 +23,11 @@ tags: [book, stock]
     - 통화정책
 
 ### 2장. 금리는 주식시장을 어떻게 움직이는가?
+<center>
 <figure class="half">
     <img src="/images/readings-interest_knows_future/2-1.jpeg">
-    <img src="">
 </figure>
+</center>
 
 ***
 
