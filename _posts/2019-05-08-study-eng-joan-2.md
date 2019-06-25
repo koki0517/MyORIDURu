@@ -367,163 +367,135 @@ tags: [study, english]
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 29강. 뭐든 같이 하고 싶은 일이 있을 땐; Let's ~
+- Let's call a spade "a spade". 그냥 솔직하게 말하자.
+> Let's go steady. 우리 사귀자.<br>
+> Let's take Mom on a cruise.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Let's not talk about it.
+> Let's not forget that.<br>
+> Let's not go to that restaurant again.<br>
+> Let's not jump to a conclusion.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Let's see how things turn out. 일들이 어떻게 결론 나는지 한 번 보자.
+> Let's see who's wrong.<br>
+> Let's see what can be done about this. 이 건에 대해 뭘 할 수 있는지 알아보자.<br>
+> Let's see when he shows up.<br>
+> Let's see how he reacts to the news.<br>
+> Let's see where this road take us.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Let's see if they break up in six months.
+> Let's see if he lays down his card. 그 사람이 솔직한지 보자.<br>
+> Let's see whether I can fix it.<br>
+> Let's see if they notice. 그들이 눈치 채는지 보자.<br>
+> Let's see whether there are seats available.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: It's getting dark. Let's get out of here.
+    B: Oh, no. My wallet is missing! Do you think I left it in the car?
+    A: Let's go to check if it's there. I'll take care of the bill.
+    B: Are you sure? Do you have enough money?
+    A: Let's see whether my credit card still work.
+    B: I hope it does!
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 30강. 여기, 저기, 이곳; here's, There's, This is ~
+- Here's your change. 잔돈 여기 있습니다.
+> Here's an idea.<br>
+> Here's the deal. 그런 이렇게 해 봅시다.<br>
+> Here's my plan.<br>
+> Here's a picture of mine. 여기 내 사진이야.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- There's only one way.
+> There's my way or the highway. 내 방식 대로 하거나 아니면 말어.<br>
+> There's no time to lose.<br>
+> There's a major market for this. 이 상품은 시장성이 큽니다.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- This is all your fault.
+> This is all I have.<br>
+> That's all you need.<br>
+> That's all hearsay. 그거 모두 전해들은 말이에요.<br>
+> That's all I can say. 내가 할 수 있는 말은 그게 다야.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- That's not how it works. 그건 그렇게 하는거 아니야.
+> That's not what I meant. 그건 내 의도가 아니야.<br>
+> That's not how I feel.<br>
+> That's not what I'm talking about. 내 얘기는 그런 게 아니야.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: That's not how it works. You have to make a word using the last letter.
+    B: I see. This is all I can think of. Will it work?
+    A: That's very good actually. Now you've got a bonus point.
+    B: Excellent! Am I winning?
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 31강. 누군가에게 명령을 할 땐 무조건 동사부터; Feel free to ~
+- Feel free to contact us.
+> Feel free to say anything.<br>
+> Feel free to join us.<br>
+> Feel free to put in your two cents. 언제든 덧붙이고 싶은 말 있음 하고.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Make sure to bookmark it.
+> Make sure to lock the door.<br>
+> Make sure to finish this.<br>
+> Make sure to pass along my message. 내 메세지를 전달 하세요.<br>
+> Make sure to take all your belongings. 반드시 네 물건 챙겨요.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Don't tell me what to do. 나한테 이래라저래라 하지마.
+> Don't expect too much.<br>
+> Don't mind me. 나 신경 쓰지마.<br>
+> Don't even say that. 그런 소리 하지도 마.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- Stop staring at me. 그만 좀 째려봐.
+> Stop whining. 그만 좀 칭얼거려.<br>
+> Stop teasing me. 그만 좀 놀려.<br>
+> Stop swearing. 욕 좀 그만해.<br>
+> Stop making excuses. 핑계 좀 대지마.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: Have you been to my homepage yet?
+    B: No, I think I lost the address.
+    A: Here, let me type it for you. Make sure to bookmark it.
+    B: Sure. Wow, nice pictures!
+    A: Hey, Don't forget to leave comments. The more, the better.
+    B: All right. Stop rushing me.
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 32강. 나라면 어떻게 할지 말할 땐; I would ~
+- I would rather stay home. 차라리 집에 있을래요.
+> I would rather be alone.<br>
+> I would rather not answer.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I wouldn't do that if I were you. 나 같으면 그렇게 안 하겠어.
+> I wouldn't miss it for the world. 절대 놓치지 않겠어.<br>
+> I wouldn't put it that way. 나라면 그런 식으로 얘기하진 않을거야.<br>
+> I wouldn't normally do this kind of thing. 평소 같으면 이렇게 안 할 텐데.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I could lend you some money.(would->주관적인 추측, could->가능성을 가진 객관적 추측)
+> I could walk you dog.<br>
+> I could work as a part-timer.<br>
+> I could write a song for you.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- I might pop the question tonight. 오늘밤에 청혼할지도 몰라.(약한 추측)
+> I might catch the last subway.<br>
+> I might be convinced to go along. 계속 가야하는 걸로 생각 되네요.<br>
+> I might get a copy. 내가 한 권 구할 수 있을 지도 몰라.<br>
+> I might get grounded. 나 외출 금지 당할지도 몰라.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: I'm thinking about quitting my job.
+    B: Did you get an offer from a better company?
+    A: No, I'm so tired of woking. I would rather stay home.
+    B: But you lobe your job. I wouldn't do that if I were you.
+    A: I know, but I could work as a part-timer.
+    B: I don't think so. Once you quit, you will have to be a full-time wife.
 
 ***
 
