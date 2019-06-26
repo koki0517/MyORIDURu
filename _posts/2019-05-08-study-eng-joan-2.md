@@ -28,7 +28,7 @@ tags: [study, english]
 > Where can I get some info?<br>
 > Where can I plug in my tablet PC?<br>
 
-- Where would you like to spend your vacation?
+- Where would yolike에 비해 정중한 표현) to spend your vacation?
 > Where would you like to have dinner?<br>
 > Where would you like to take a stroll?<br>
 > Where would you like to stay?<br>
@@ -499,241 +499,65 @@ tags: [study, english]
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 33강. 목소리가, 냄새가, 맛이 어떤지 표현할 땐; You sound, It smells, It tastes ~
+- You sound depressed.
+> You sound just like your sister.<br>
+> You sound a little unsure. 확신이 없어 보이네요.<br>
+> You sound weird. 목소리가 좀 이상한 것 같은데.<br>
+> You sound narrow-minded. 속이 좋은신 분 같아요.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It smells delisious.
+> It smells so bad.<br>
+> It smells like garlic.<br>
+> It smells fishy. 비린내가 나네요.<br>
+> It smells like freshly cut grass, 막 깎은 잔디 냄새 같은데.<br>
+> It smells so sweet.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It tastes bitter-sweet.
+> It tastes funny. 맛이 이상해요.<br>
+> It tastes pretty strong. 맛이 꽤 강하군요.<br>
+> It tastes like chicken.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It feels like a dream. 꿈만 같아요.
+> It feels so good.<br>
+> It feels like only yesterday.<br>
+> It feels like home to me. 집에 온 것처럼 편안해요.<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
+    A: I can't believe it's been ten years since we finished high school.
+    B: I know! It feels like only yesterday, doesn't it?
+    A: You haven't changed at all. You sound a little different, though.
+    B: I've been living in Busan for 7 years now. Maybe that's why
 
 ***
 
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+## 34강. 상대방이 어때 보인다고 말할 땐; You look ~
+- You look pretty tired. 너 되게 피곤해 보여.
+> You look gorgeous tonight. 당신 오늘밤 정말 섹시해 보여.<br>
+> You look terrible. 얼굴이 말이 아니네요.<br>
+> You don't look quite so pleased. 그닥 기뻐보이지 않네요.<br>
+> You look like a million bucks. 너 정말 멋져 보인다.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It looks like I'll have to. 내가 해야 할 것 같군.
+> It looks like a pigpen. 돼지우리가 따로 없군.<br>
+> It looks like he's making another mistake.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It seems that my husband is having an affair. 우리 남편 바람 피우는 것 같아.(추측)
+> It seems that you blew your chance. 네가 기회를 날려버린 것 같은데.<br>
+> It seems that I've got the upper hand. 내가 우위를 점한것 같군.<br>
+> It seems that you have a flat tire.<br>
+> It seems that you're having a mid-life crisis. 자네에게 중년의 위기가 닥친 것 같은데.<br>
 
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
+- It looks as if you are my old friend. 당신은 제 오랜 친구 같아요.(like에 비해 정중한 표현)
+> It looks as if we need to talk.<br>
+> It looks as if things are starting to pick up. 일들이 풀리기 시작하는 것 같네요.<br>
+> It looks as if he's fed up. 그 친구 질린 것 같은데.<br>
+> It looks as if .<br>
 
 **Practice!**
 
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
-
-***
-
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-**Practice!**
-
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
-
-***
-
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-**Practice!**
-
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
-
-***
-
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-**Practice!**
-
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
-
-***
-
-## 강. ~
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-- .
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-> .<br>
-
-**Practice!**
-
-    A: 
-    B: 
-    A: 
-    B: 
-    A: 
-    B: 
-
+    A: You look pretty excited today. What's up?
+    B: I feel like a million bucks! I finally got a promotion.
+    A: Congrats! I'm happy for you.
+    B: Thanks. It seems that I'm going to get a big raise.
