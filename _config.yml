@@ -1,9 +1,9 @@
 # Site
 title:          MyORIDURu
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+bio:            'My history in KONBU'
+description:    "tells you My techniques I got in KONBU"
 picture:        'assets/img/Logo.png'
-locale:         en_US
+locale:         ja_JP
 url:            https://koki0517.github.io/MyORIDURu
 
 # Jekyll
@@ -23,8 +23,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: _koki0517_
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: koki0517
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
