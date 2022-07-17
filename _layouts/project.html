@@ -10,11 +10,11 @@
         </div>
         <div class="project-list">
             {% for post in site.posts %} 
-              {% if post.project %}
+                {% if post.project %}
             <ul>
                 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
             </ul>
-              {% endif %}
+                {% endif %}
             {% endfor %}
         </div>
     </div>
